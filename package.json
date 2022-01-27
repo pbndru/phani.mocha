@@ -1,0 +1,15 @@
+{
+  "name": "phani.mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --exit"
+  },
+  "author": "Phani Bandaru (http://www.phanibandarutech.co.uk)",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^9.2.0"
+  }
+}
